@@ -59,7 +59,8 @@ waveforms are plotted in a graph sheet.
 
 
 ## GRAPH:
-![Uploading image.png…]()
+
+<img width="1080" height="1398" alt="image" src="https://github.com/user-attachments/assets/f4dfbaec-4233-4ba6-b5fa-10f832a09987" />
 
 
  ## RESULTS:
