@@ -2,7 +2,7 @@
 # NON-INVERTING AMPLIFIER
 
 ## AIM:
-To design and construct a inverting, non- inverting and differential amplifiers.
+To design and construct a inverting, non- inverting and differential amplifiers
 
 ## APPARATUS REQUIRED:
 <img width="959" height="257" alt="image" src="https://github.com/user-attachments/assets/018af22f-288a-4079-bbda-fdafa858db69" />
