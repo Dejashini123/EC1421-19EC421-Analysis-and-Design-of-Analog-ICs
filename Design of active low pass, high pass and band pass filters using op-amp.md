@@ -106,13 +106,7 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 ## BAND-PASS
 <img width="1080" height="915" alt="image" src="https://github.com/user-attachments/assets/7a667324-a961-4ab0-817b-07e33d2a8ea3" />
 
-## CALCULATIONS:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+
 ## GRAPH:
 ## LOW_PASS
 <img width="1534" height="1069" alt="image" src="https://github.com/user-attachments/assets/75f50fdc-c4fa-499c-978f-df62e682bf41" />
